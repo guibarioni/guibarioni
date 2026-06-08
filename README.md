@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I am a Computer Science student at FECAP and an IT
 * 🏅 Certifications:
 *   Fortinet NSE 1 & NSE 2.
 *   Cisco Network Technician Career Path 
-*   Network support and security
-*   Network Addressing and Basic Troubleshooting
+*   Cisco Network support and security
+*   Cisco Network Addressing and Basic Troubleshooting
 * 📫 How to reach me: [gbarionicristioglu@gmail.com](mailto:gbarionicristioglu@gmail.com)
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: When I'm not studying or coding, I'm probably playing competitive games, tweaking my PC setup, or listening to some Reggaeton!
